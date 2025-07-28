@@ -1,0 +1,4 @@
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\ClassLibrary4\obj\Debug\quanlyduan.DAL.csproj.AssemblyReference.cache
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\ClassLibrary4\obj\Debug\quanlyduan.DAL.csproj.CoreCompileInputs.cache
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\project\DAL\obj\Debug\quanlyduan.DAL.csproj.AssemblyReference.cache
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\project\DAL\obj\Debug\quanlyduan.DAL.csproj.CoreCompileInputs.cache

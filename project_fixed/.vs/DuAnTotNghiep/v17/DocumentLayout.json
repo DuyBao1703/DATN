@@ -1,0 +1,962 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project_fixed\\project_fixed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55CE9448-74B6-471F-AD8E-9EADDCCAB5C1}|DAL\\DAL_DATN.csproj|d:\\project_fixed\\project_fixed\\dal\\chitiethoadon_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CE9448-74B6-471F-AD8E-9EADDCCAB5C1}|DAL\\DAL_DATN.csproj|solutionrelative:dal\\chitiethoadon_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CE9448-74B6-471F-AD8E-9EADDCCAB5C1}|DAL\\DAL_DATN.csproj|D:\\project_fixed\\project_fixed\\dal\\xemay_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CE9448-74B6-471F-AD8E-9EADDCCAB5C1}|DAL\\DAL_DATN.csproj|solutionrelative:dal\\xemay_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CE9448-74B6-471F-AD8E-9EADDCCAB5C1}|DAL\\DAL_DATN.csproj|D:\\project_fixed\\project_fixed\\dal\\trangthaixe_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CE9448-74B6-471F-AD8E-9EADDCCAB5C1}|DAL\\DAL_DATN.csproj|solutionrelative:dal\\trangthaixe_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CE9448-74B6-471F-AD8E-9EADDCCAB5C1}|DAL\\DAL_DATN.csproj|D:\\project_fixed\\project_fixed\\dal\\phankhoixe_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CE9448-74B6-471F-AD8E-9EADDCCAB5C1}|DAL\\DAL_DATN.csproj|solutionrelative:dal\\phankhoixe_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CE9448-74B6-471F-AD8E-9EADDCCAB5C1}|DAL\\DAL_DATN.csproj|D:\\project_fixed\\project_fixed\\dal\\nhanvien_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CE9448-74B6-471F-AD8E-9EADDCCAB5C1}|DAL\\DAL_DATN.csproj|solutionrelative:dal\\nhanvien_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CE9448-74B6-471F-AD8E-9EADDCCAB5C1}|DAL\\DAL_DATN.csproj|D:\\project_fixed\\project_fixed\\dal\\loaixemay_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CE9448-74B6-471F-AD8E-9EADDCCAB5C1}|DAL\\DAL_DATN.csproj|solutionrelative:dal\\loaixemay_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CE9448-74B6-471F-AD8E-9EADDCCAB5C1}|DAL\\DAL_DATN.csproj|D:\\project_fixed\\project_fixed\\dal\\khachhang_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CE9448-74B6-471F-AD8E-9EADDCCAB5C1}|DAL\\DAL_DATN.csproj|solutionrelative:dal\\khachhang_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CE9448-74B6-471F-AD8E-9EADDCCAB5C1}|DAL\\DAL_DATN.csproj|D:\\project_fixed\\project_fixed\\dal\\hoadon_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CE9448-74B6-471F-AD8E-9EADDCCAB5C1}|DAL\\DAL_DATN.csproj|solutionrelative:dal\\hoadon_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CE9448-74B6-471F-AD8E-9EADDCCAB5C1}|DAL\\DAL_DATN.csproj|D:\\project_fixed\\project_fixed\\dal\\hangxe_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CE9448-74B6-471F-AD8E-9EADDCCAB5C1}|DAL\\DAL_DATN.csproj|solutionrelative:dal\\hangxe_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmxemay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmxemay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmxemay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmxemay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmtrangthaixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmtrangthaixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmtrangthaixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmtrangthaixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmquanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmquanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmquanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmquanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmphankhoixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmphankhoixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmphankhoixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmphankhoixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmloaixemay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmloaixemay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmloaixemay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmloaixemay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmhangxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmhangxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmhangxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmhangxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0175AC4B-657B-4B75-88AA-49DE53C404E6}|BUS\\BUS_DATN.csproj|D:\\project_fixed\\project_fixed\\bus\\loaixemay_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0175AC4B-657B-4B75-88AA-49DE53C404E6}|BUS\\BUS_DATN.csproj|solutionrelative:bus\\loaixemay_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0175AC4B-657B-4B75-88AA-49DE53C404E6}|BUS\\BUS_DATN.csproj|D:\\project_fixed\\project_fixed\\bus\\nhanvien_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0175AC4B-657B-4B75-88AA-49DE53C404E6}|BUS\\BUS_DATN.csproj|solutionrelative:bus\\nhanvien_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA8CFEA-0E6E-4ED2-8BF5-FE6D6BD34001}|DTO\\DTO_DATN.csproj|D:\\project_fixed\\project_fixed\\dto\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA8CFEA-0E6E-4ED2-8BF5-FE6D6BD34001}|DTO\\DTO_DATN.csproj|solutionrelative:dto\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0175AC4B-657B-4B75-88AA-49DE53C404E6}|BUS\\BUS_DATN.csproj|D:\\project_fixed\\project_fixed\\bus\\xemay_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0175AC4B-657B-4B75-88AA-49DE53C404E6}|BUS\\BUS_DATN.csproj|solutionrelative:bus\\xemay_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0175AC4B-657B-4B75-88AA-49DE53C404E6}|BUS\\BUS_DATN.csproj|D:\\project_fixed\\project_fixed\\bus\\phankhoixe_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0175AC4B-657B-4B75-88AA-49DE53C404E6}|BUS\\BUS_DATN.csproj|solutionrelative:bus\\phankhoixe_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0175AC4B-657B-4B75-88AA-49DE53C404E6}|BUS\\BUS_DATN.csproj|D:\\project_fixed\\project_fixed\\bus\\trangthaixe_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0175AC4B-657B-4B75-88AA-49DE53C404E6}|BUS\\BUS_DATN.csproj|solutionrelative:bus\\trangthaixe_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0175AC4B-657B-4B75-88AA-49DE53C404E6}|BUS\\BUS_DATN.csproj|D:\\project_fixed\\project_fixed\\bus\\hoadon_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0175AC4B-657B-4B75-88AA-49DE53C404E6}|BUS\\BUS_DATN.csproj|solutionrelative:bus\\hoadon_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0175AC4B-657B-4B75-88AA-49DE53C404E6}|BUS\\BUS_DATN.csproj|D:\\project_fixed\\project_fixed\\bus\\hangxe_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0175AC4B-657B-4B75-88AA-49DE53C404E6}|BUS\\BUS_DATN.csproj|solutionrelative:bus\\hangxe_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0175AC4B-657B-4B75-88AA-49DE53C404E6}|BUS\\BUS_DATN.csproj|D:\\project_fixed\\project_fixed\\bus\\chitiethoadon_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0175AC4B-657B-4B75-88AA-49DE53C404E6}|BUS\\BUS_DATN.csproj|solutionrelative:bus\\chitiethoadon_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA8CFEA-0E6E-4ED2-8BF5-FE6D6BD34001}|DTO\\DTO_DATN.csproj|D:\\project_fixed\\project_fixed\\dto\\trangthaixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA8CFEA-0E6E-4ED2-8BF5-FE6D6BD34001}|DTO\\DTO_DATN.csproj|solutionrelative:dto\\trangthaixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA8CFEA-0E6E-4ED2-8BF5-FE6D6BD34001}|DTO\\DTO_DATN.csproj|D:\\project_fixed\\project_fixed\\dto\\phankhoixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA8CFEA-0E6E-4ED2-8BF5-FE6D6BD34001}|DTO\\DTO_DATN.csproj|solutionrelative:dto\\phankhoixe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA8CFEA-0E6E-4ED2-8BF5-FE6D6BD34001}|DTO\\DTO_DATN.csproj|D:\\project_fixed\\project_fixed\\dto\\loaixemay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA8CFEA-0E6E-4ED2-8BF5-FE6D6BD34001}|DTO\\DTO_DATN.csproj|solutionrelative:dto\\loaixemay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA8CFEA-0E6E-4ED2-8BF5-FE6D6BD34001}|DTO\\DTO_DATN.csproj|D:\\project_fixed\\project_fixed\\dto\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA8CFEA-0E6E-4ED2-8BF5-FE6D6BD34001}|DTO\\DTO_DATN.csproj|solutionrelative:dto\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA8CFEA-0E6E-4ED2-8BF5-FE6D6BD34001}|DTO\\DTO_DATN.csproj|D:\\project_fixed\\project_fixed\\dto\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA8CFEA-0E6E-4ED2-8BF5-FE6D6BD34001}|DTO\\DTO_DATN.csproj|solutionrelative:dto\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA8CFEA-0E6E-4ED2-8BF5-FE6D6BD34001}|DTO\\DTO_DATN.csproj|D:\\project_fixed\\project_fixed\\dto\\hangxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA8CFEA-0E6E-4ED2-8BF5-FE6D6BD34001}|DTO\\DTO_DATN.csproj|solutionrelative:dto\\hangxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmxemay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmxemay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\logotop.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\logotop.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmtrangthaixe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmtrangthaixe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmquanlynhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmquanlynhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmphankhoixe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmphankhoixe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmloaixemay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmloaixemay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmkhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmkhachhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmhangxe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmhangxe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\frmchitiethoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\frmchitiethoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|D:\\project_fixed\\project_fixed\\gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D79A373-0B72-40E2-90A7-A4586EA4FD35}|GUI\\GUI_DATN.csproj|solutionrelative:gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChiTietHoaDon_DAL.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\DAL\\ChiTietHoaDon_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ChiTietHoaDon_DAL.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\DAL\\ChiTietHoaDon_DAL.cs",
+              "RelativeToolTip": "DAL\\ChiTietHoaDon_DAL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:35:04.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NhanVien_DAL.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\DAL\\NhanVien_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\NhanVien_DAL.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\DAL\\NhanVien_DAL.cs",
+              "RelativeToolTip": "DAL\\NhanVien_DAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T03:24:28.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmXeMay.cs [Design]",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmXeMay.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmXeMay.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmXeMay.cs [Design]",
+              "RelativeToolTip": "GUI\\FrmXeMay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T03:23:34.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmQuanLyNhanVien.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmQuanLyNhanVien.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmQuanLyNhanVien.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmQuanLyNhanVien.cs",
+              "RelativeToolTip": "GUI\\FrmQuanLyNhanVien.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIAxwBkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T03:23:19.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmQuanLyNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmQuanLyNhanVien.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmQuanLyNhanVien.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmQuanLyNhanVien.cs [Design]",
+              "RelativeToolTip": "GUI\\FrmQuanLyNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T03:23:17.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmLogin.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmLogin.cs",
+              "RelativeToolTip": "GUI\\FrmLogin.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAApwBwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T03:22:51.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmLogin.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "GUI\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T03:22:50.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NhanVien_BUS.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\BUS\\NhanVien_BUS.cs",
+              "RelativeDocumentMoniker": "BUS\\NhanVien_BUS.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\BUS\\NhanVien_BUS.cs",
+              "RelativeToolTip": "BUS\\NhanVien_BUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:35:46.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmTrangThaiXe.cs [Design]",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmTrangThaiXe.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmTrangThaiXe.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmTrangThaiXe.cs [Design]",
+              "RelativeToolTip": "GUI\\FrmTrangThaiXe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:27:24.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmTrangThaiXe.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmTrangThaiXe.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmTrangThaiXe.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmTrangThaiXe.cs",
+              "RelativeToolTip": "GUI\\FrmTrangThaiXe.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAArwBYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:30:38.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmXeMay.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmXeMay.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmXeMay.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmXeMay.cs",
+              "RelativeToolTip": "GUI\\FrmXeMay.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAASwDkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:27:54.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmPhanKhoiXe.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmPhanKhoiXe.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmPhanKhoiXe.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmPhanKhoiXe.cs",
+              "RelativeToolTip": "GUI\\FrmPhanKhoiXe.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA8wBYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:30:28.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmPhanKhoiXe.cs [Design]",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmPhanKhoiXe.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmPhanKhoiXe.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmPhanKhoiXe.cs [Design]",
+              "RelativeToolTip": "GUI\\FrmPhanKhoiXe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:27:04.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmLoaiXeMay.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmLoaiXeMay.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmLoaiXeMay.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmLoaiXeMay.cs",
+              "RelativeToolTip": "GUI\\FrmLoaiXeMay.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:30:19.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmLoaiXeMay.cs [Design]",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmLoaiXeMay.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmLoaiXeMay.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmLoaiXeMay.cs [Design]",
+              "RelativeToolTip": "GUI\\FrmLoaiXeMay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:26:45.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmKhachHang.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmKhachHang.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmKhachHang.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmKhachHang.cs",
+              "RelativeToolTip": "GUI\\FrmKhachHang.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:30:13.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmKhachHang.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmKhachHang.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmKhachHang.cs [Design]",
+              "RelativeToolTip": "GUI\\FrmKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:26:34.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmHoaDon.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmHoaDon.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmHoaDon.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmHoaDon.cs",
+              "RelativeToolTip": "GUI\\FrmHoaDon.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBYAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:30:06.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmHoaDon.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmHoaDon.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmHoaDon.cs [Design]",
+              "RelativeToolTip": "GUI\\FrmHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:26:16.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmHangXe.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmHangXe.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmHangXe.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmHangXe.cs",
+              "RelativeToolTip": "GUI\\FrmHangXe.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:29:54.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmHangXe.cs [Design]",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmHangXe.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmHangXe.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmHangXe.cs [Design]",
+              "RelativeToolTip": "GUI\\FrmHangXe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:18:48.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmChiTietHoaDon.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmChiTietHoaDon.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmChiTietHoaDon.cs",
+              "RelativeToolTip": "GUI\\FrmChiTietHoaDon.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAowBYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:29:32.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmChiTietHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmChiTietHoaDon.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmChiTietHoaDon.cs [Design]",
+              "RelativeToolTip": "GUI\\FrmChiTietHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:18:46.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\Form1.cs",
+              "RelativeToolTip": "GUI\\Form1.cs",
+              "ViewState": "AgIAADgBAAAAAAAAAAAAAG4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T02:02:22.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\Form1.cs [Design]",
+              "RelativeToolTip": "GUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T01:59:30.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ChiTietHoaDon.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\DTO\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "DTO\\ChiTietHoaDon.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\DTO\\ChiTietHoaDon.cs",
+              "RelativeToolTip": "DTO\\ChiTietHoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:34:57.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XeMay_DAL.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\DAL\\XeMay_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\XeMay_DAL.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\DAL\\XeMay_DAL.cs",
+              "RelativeToolTip": "DAL\\XeMay_DAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:35:37.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrangThaiXe_DAL.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\DAL\\TrangThaiXe_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\TrangThaiXe_DAL.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\DAL\\TrangThaiXe_DAL.cs",
+              "RelativeToolTip": "DAL\\TrangThaiXe_DAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:35:34.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhanKhoiXe_DAL.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\DAL\\PhanKhoiXe_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\PhanKhoiXe_DAL.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\DAL\\PhanKhoiXe_DAL.cs",
+              "RelativeToolTip": "DAL\\PhanKhoiXe_DAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:35:30.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoaiXeMay_DAL.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\DAL\\LoaiXeMay_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\LoaiXeMay_DAL.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\DAL\\LoaiXeMay_DAL.cs",
+              "RelativeToolTip": "DAL\\LoaiXeMay_DAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:35:22.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KhachHang_DAL.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\DAL\\KhachHang_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\KhachHang_DAL.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\DAL\\KhachHang_DAL.cs",
+              "RelativeToolTip": "DAL\\KhachHang_DAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:35:18.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HoaDon_DAL.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\DAL\\HoaDon_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\HoaDon_DAL.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\DAL\\HoaDon_DAL.cs",
+              "RelativeToolTip": "DAL\\HoaDon_DAL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:35:14.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HangXe_DAL.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\DAL\\HangXe_DAL.cs",
+              "RelativeDocumentMoniker": "DAL\\HangXe_DAL.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\DAL\\HangXe_DAL.cs",
+              "RelativeToolTip": "DAL\\HangXe_DAL.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:35:10.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "XeMay_BUS.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\BUS\\XeMay_BUS.cs",
+              "RelativeDocumentMoniker": "BUS\\XeMay_BUS.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\BUS\\XeMay_BUS.cs",
+              "RelativeToolTip": "BUS\\XeMay_BUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:35:47.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PhanKhoiXe_BUS.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\BUS\\PhanKhoiXe_BUS.cs",
+              "RelativeDocumentMoniker": "BUS\\PhanKhoiXe_BUS.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\BUS\\PhanKhoiXe_BUS.cs",
+              "RelativeToolTip": "BUS\\PhanKhoiXe_BUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:35:46.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TrangThaiXe_BUS.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\BUS\\TrangThaiXe_BUS.cs",
+              "RelativeDocumentMoniker": "BUS\\TrangThaiXe_BUS.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\BUS\\TrangThaiXe_BUS.cs",
+              "RelativeToolTip": "BUS\\TrangThaiXe_BUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:35:47.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoaiXeMay_BUS.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\BUS\\LoaiXeMay_BUS.cs",
+              "RelativeDocumentMoniker": "BUS\\LoaiXeMay_BUS.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\BUS\\LoaiXeMay_BUS.cs",
+              "RelativeToolTip": "BUS\\LoaiXeMay_BUS.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:35:45.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HoaDon_BUS.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\BUS\\HoaDon_BUS.cs",
+              "RelativeDocumentMoniker": "BUS\\HoaDon_BUS.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\BUS\\HoaDon_BUS.cs",
+              "RelativeToolTip": "BUS\\HoaDon_BUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:35:44.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HangXe_BUS.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\BUS\\HangXe_BUS.cs",
+              "RelativeDocumentMoniker": "BUS\\HangXe_BUS.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\BUS\\HangXe_BUS.cs",
+              "RelativeToolTip": "BUS\\HangXe_BUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:35:43.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ChiTietHoaDon_BUS.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\BUS\\ChiTietHoaDon_BUS.cs",
+              "RelativeDocumentMoniker": "BUS\\ChiTietHoaDon_BUS.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\BUS\\ChiTietHoaDon_BUS.cs",
+              "RelativeToolTip": "BUS\\ChiTietHoaDon_BUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:35:42.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TrangThaiXe.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\DTO\\TrangThaiXe.cs",
+              "RelativeDocumentMoniker": "DTO\\TrangThaiXe.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\DTO\\TrangThaiXe.cs",
+              "RelativeToolTip": "DTO\\TrangThaiXe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:35:01.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PhanKhoiXe.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\DTO\\PhanKhoiXe.cs",
+              "RelativeDocumentMoniker": "DTO\\PhanKhoiXe.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\DTO\\PhanKhoiXe.cs",
+              "RelativeToolTip": "DTO\\PhanKhoiXe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:35:00.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LoaiXeMay.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\DTO\\LoaiXeMay.cs",
+              "RelativeDocumentMoniker": "DTO\\LoaiXeMay.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\DTO\\LoaiXeMay.cs",
+              "RelativeToolTip": "DTO\\LoaiXeMay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:34:59.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\DTO\\KhachHang.cs",
+              "RelativeDocumentMoniker": "DTO\\KhachHang.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\DTO\\KhachHang.cs",
+              "RelativeToolTip": "DTO\\KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:34:59.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\DTO\\HoaDon.cs",
+              "RelativeDocumentMoniker": "DTO\\HoaDon.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\DTO\\HoaDon.cs",
+              "RelativeToolTip": "DTO\\HoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:34:58.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "HangXe.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\DTO\\HangXe.cs",
+              "RelativeDocumentMoniker": "DTO\\HangXe.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\DTO\\HangXe.cs",
+              "RelativeToolTip": "DTO\\HangXe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:34:58.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FrmXeMay.Designer.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmXeMay.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmXeMay.Designer.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmXeMay.Designer.cs",
+              "RelativeToolTip": "GUI\\FrmXeMay.Designer.cs",
+              "ViewState": "AgIAAA0CAAAAAAAAAAASwCECAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:27:37.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "logoTop.ico - Icon [256x256, 32 bit, BMP]",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\logoTop.ico",
+              "RelativeDocumentMoniker": "GUI\\logoTop.ico",
+              "ToolTip": "C:\\Users\\khaidepchang\\Downloads\\project_fixed\\project_fixed\\GUI\\logoTop.ico - Icon [256x256, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-07-21T03:27:35.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FrmTrangThaiXe.Designer.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmTrangThaiXe.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmTrangThaiXe.Designer.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmTrangThaiXe.Designer.cs",
+              "RelativeToolTip": "GUI\\FrmTrangThaiXe.Designer.cs",
+              "ViewState": "AgIAABYBAAAAAAAAAAASwCoBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:27:25.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FrmQuanLyNhanVien.Designer.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmQuanLyNhanVien.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmQuanLyNhanVien.Designer.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmQuanLyNhanVien.Designer.cs",
+              "RelativeToolTip": "GUI\\FrmQuanLyNhanVien.Designer.cs",
+              "ViewState": "AgIAAOUBAAAAAAAAAAASwPkBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:27:15.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FrmPhanKhoiXe.Designer.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmPhanKhoiXe.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmPhanKhoiXe.Designer.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmPhanKhoiXe.Designer.cs",
+              "RelativeToolTip": "GUI\\FrmPhanKhoiXe.Designer.cs",
+              "ViewState": "AgIAABcBAAAAAAAAAAASwCsBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:27:05.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FrmLoaiXeMay.Designer.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmLoaiXeMay.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmLoaiXeMay.Designer.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmLoaiXeMay.Designer.cs",
+              "RelativeToolTip": "GUI\\FrmLoaiXeMay.Designer.cs",
+              "ViewState": "AgIAABYBAAAAAAAAAAASwCoBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:26:47.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FrmKhachHang.Designer.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmKhachHang.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmKhachHang.Designer.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmKhachHang.Designer.cs",
+              "RelativeToolTip": "GUI\\FrmKhachHang.Designer.cs",
+              "ViewState": "AgIAAF4BAAAAAAAAAAASwHIBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:26:35.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FrmHoaDon.Designer.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmHoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmHoaDon.Designer.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmHoaDon.Designer.cs",
+              "RelativeToolTip": "GUI\\FrmHoaDon.Designer.cs",
+              "ViewState": "AgIAAGEBAAAAAAAAAAASwHUBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:26:18.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FrmHangXe.Designer.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmHangXe.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmHangXe.Designer.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmHangXe.Designer.cs",
+              "RelativeToolTip": "GUI\\FrmHangXe.Designer.cs",
+              "ViewState": "AgIAAC0BAAAAAAAAAAASwEEBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:26:02.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FrmChiTietHoaDon.Designer.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\FrmChiTietHoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmChiTietHoaDon.Designer.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\FrmChiTietHoaDon.Designer.cs",
+              "RelativeToolTip": "GUI\\FrmChiTietHoaDon.Designer.cs",
+              "ViewState": "AgIAAEMBAAAAAAAAAAASwFcBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:24:59.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "GUI\\Program.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\Program.cs",
+              "RelativeToolTip": "GUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T02:02:30.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Form1.designer.cs",
+              "DocumentMoniker": "D:\\project_fixed\\project_fixed\\GUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.Designer.cs",
+              "ToolTip": "D:\\project_fixed\\project_fixed\\GUI\\Form1.Designer.cs",
+              "RelativeToolTip": "GUI\\Form1.Designer.cs",
+              "ViewState": "AgIAAJ8BAAAAAAAAAAASwLMBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T02:00:27.566Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 122,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

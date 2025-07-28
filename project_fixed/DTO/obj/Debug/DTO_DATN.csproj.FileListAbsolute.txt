@@ -1,0 +1,18 @@
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\DTO\bin\Debug\DTO_DATN.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\DTO\bin\Debug\DTO_DATN.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\DTO\obj\Debug\DTO_DATN.csproj.AssemblyReference.cache
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\DTO\obj\Debug\DTO_DATN.csproj.CoreCompileInputs.cache
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\DTO\obj\Debug\DTO_DATN.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\DTO\obj\Debug\DTO_DATN.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\DTO\bin\Debug\DTO_DATN.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\DTO\bin\Debug\DTO_DATN.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\DTO\obj\Debug\DTO_DATN.csproj.AssemblyReference.cache
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\DTO\obj\Debug\DTO_DATN.csproj.CoreCompileInputs.cache
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\DTO\obj\Debug\DTO_DATN.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\DTO\obj\Debug\DTO_DATN.pdb
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\DTO\bin\Debug\DTO_DATN.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\DTO\bin\Debug\DTO_DATN.pdb
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\DTO\obj\Debug\DTO_DATN.csproj.AssemblyReference.cache
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\DTO\obj\Debug\DTO_DATN.csproj.CoreCompileInputs.cache
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\DTO\obj\Debug\DTO_DATN.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\DTO\obj\Debug\DTO_DATN.pdb

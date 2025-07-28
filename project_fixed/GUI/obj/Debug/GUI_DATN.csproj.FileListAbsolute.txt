@@ -1,0 +1,400 @@
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\quanlyduan.exe.config
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\quanlyduan.exe
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\quanlyduan.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Antlr3.Runtime.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\ClassLibrary5.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\DAL_DATN.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\DTO_DATN.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\EPPlus.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\EPPlus.Interfaces.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\EPPlus.System.Drawing.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Guna.UI2.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Assessment.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.BatchParserClient.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Diagnostics.Strace.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.SqlTDiagm.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.SString.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Serilog.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Serilog.Sinks.File.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\System.Web.Optimization.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\WebGrease.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\ClassLibrary5.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\DAL_DATN.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\DTO_DATN.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Antlr3.Runtime.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\EPPlus.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Dmf.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Management.Utility.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Smo.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.Types.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Serilog.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Serilog.Sinks.File.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\Serilog.Sinks.File.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\bin\Debug\System.Web.Optimization.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\obj\Debug\GUI_DATN.csproj.AssemblyReference.cache
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\obj\Debug\GUI_DATN.csproj.ResolveComReference.cache
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\obj\Debug\GUI_DATN.Login.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\obj\Debug\GUI_DATN.frmMain.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\obj\Debug\GUI_DATN.FrmChiTietHoaDon.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\obj\Debug\GUI_DATN.FrmHoaDon.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\obj\Debug\GUI_DATN.FrmKhachHang.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\obj\Debug\GUI_DATN.FrmXeMay.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\obj\Debug\GUI_DATN.FrmTrangThaiXe.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\obj\Debug\GUI_DATN.FrmLoaiXeMay.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\obj\Debug\GUI_DATN.FrmPhanKhoiXe.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\obj\Debug\GUI_DATN.FrmHangXe.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\obj\Debug\GUI_DATN.FrmQuanLyNhanVien.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\obj\Debug\quanlyduan.Properties.Resources.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\obj\Debug\GUI_DATN.csproj.GenerateResource.cache
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\obj\Debug\GUI_DATN.csproj.CoreCompileInputs.cache
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\obj\Debug\GUI_DATN.csproj.Up2Date
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\obj\Debug\quanlyduan.exe
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\GUI\obj\Debug\quanlyduan.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\quanlyduan.exe.config
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\quanlyduan.exe
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\quanlyduan.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Antlr3.Runtime.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\ClassLibrary5.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\DAL_DATN.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\DTO_DATN.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\EPPlus.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\EPPlus.Interfaces.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\EPPlus.System.Drawing.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Guna.UI2.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Assessment.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.BatchParserClient.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Diagnostics.Strace.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SqlTDiagm.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SString.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Serilog.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Serilog.Sinks.File.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\System.Web.Optimization.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\WebGrease.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\ClassLibrary5.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\DAL_DATN.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\DTO_DATN.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Antlr3.Runtime.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\EPPlus.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Dmf.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.Utility.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Smo.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Types.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Serilog.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Serilog.Sinks.File.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\Serilog.Sinks.File.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\bin\Debug\System.Web.Optimization.xml
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\obj\Debug\GUI_DATN.csproj.AssemblyReference.cache
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\obj\Debug\GUI_DATN.csproj.ResolveComReference.cache
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\obj\Debug\GUI_DATN.Login.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\obj\Debug\GUI_DATN.frmMain.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\obj\Debug\GUI_DATN.FrmChiTietHoaDon.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\obj\Debug\GUI_DATN.FrmHoaDon.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\obj\Debug\GUI_DATN.FrmKhachHang.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\obj\Debug\GUI_DATN.FrmXeMay.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\obj\Debug\GUI_DATN.FrmTrangThaiXe.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\obj\Debug\GUI_DATN.FrmLoaiXeMay.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\obj\Debug\GUI_DATN.FrmPhanKhoiXe.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\obj\Debug\GUI_DATN.FrmHangXe.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\obj\Debug\GUI_DATN.FrmQuanLyNhanVien.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\obj\Debug\quanlyduan.Properties.Resources.resources
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\obj\Debug\GUI_DATN.csproj.GenerateResource.cache
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\obj\Debug\GUI_DATN.csproj.CoreCompileInputs.cache
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\obj\Debug\GUI_DATN.csproj.Up2Date
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\obj\Debug\quanlyduan.exe
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\GUI\obj\Debug\quanlyduan.pdb
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\quanlyduan.exe.config
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\quanlyduan.exe
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\quanlyduan.pdb
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Antlr3.Runtime.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\ClassLibrary5.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\DAL_DATN.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\DTO_DATN.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\EPPlus.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Guna.UI2.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.BatchParserClient.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Diagnostics.Strace.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SqlTDiagm.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SString.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Serilog.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\System.Web.Optimization.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\WebGrease.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\ClassLibrary5.pdb
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\DAL_DATN.pdb
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\DTO_DATN.pdb
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\EPPlus.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.Utility.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Types.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Serilog.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Serilog.Sinks.File.pdb
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\bin\Debug\System.Web.Optimization.xml
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.csproj.AssemblyReference.cache
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.csproj.ResolveComReference.cache
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.Login.resources
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.frmMain.resources
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.FrmChiTietHoaDon.resources
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.FrmHoaDon.resources
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.FrmKhachHang.resources
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.FrmXeMay.resources
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.FrmTrangThaiXe.resources
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.FrmLoaiXeMay.resources
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.FrmPhanKhoiXe.resources
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.FrmHangXe.resources
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.FrmQuanLyNhanVien.resources
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\obj\Debug\quanlyduan.Properties.Resources.resources
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.csproj.GenerateResource.cache
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.csproj.CoreCompileInputs.cache
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.csproj.Up2Date
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\obj\Debug\quanlyduan.exe
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\GUI\obj\Debug\quanlyduan.pdb
+D:\project_fixed\project_fixed\GUI\bin\Debug\quanlyduan.exe.config
+D:\project_fixed\project_fixed\GUI\bin\Debug\quanlyduan.exe
+D:\project_fixed\project_fixed\GUI\bin\Debug\quanlyduan.pdb
+D:\project_fixed\project_fixed\GUI\bin\Debug\Antlr3.Runtime.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\ClassLibrary5.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\DAL_DATN.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\DTO_DATN.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\EPPlus.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\EPPlus.Interfaces.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\EPPlus.System.Drawing.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Guna.UI2.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Assessment.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.BatchParserClient.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Diagnostics.Strace.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SqlTDiagm.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SString.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Newtonsoft.Json.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Serilog.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\Serilog.Sinks.File.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\System.Web.Optimization.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\WebGrease.dll
+D:\project_fixed\project_fixed\GUI\bin\Debug\ClassLibrary5.pdb
+D:\project_fixed\project_fixed\GUI\bin\Debug\DAL_DATN.pdb
+D:\project_fixed\project_fixed\GUI\bin\Debug\DTO_DATN.pdb
+D:\project_fixed\project_fixed\GUI\bin\Debug\Antlr3.Runtime.pdb
+D:\project_fixed\project_fixed\GUI\bin\Debug\EPPlus.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Dmf.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.Utility.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Smo.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.Types.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Newtonsoft.Json.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Serilog.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\Serilog.Sinks.File.pdb
+D:\project_fixed\project_fixed\GUI\bin\Debug\Serilog.Sinks.File.xml
+D:\project_fixed\project_fixed\GUI\bin\Debug\System.Web.Optimization.xml
+D:\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.csproj.AssemblyReference.cache
+D:\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.csproj.ResolveComReference.cache
+D:\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.Login.resources
+D:\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.frmMain.resources
+D:\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.FrmChiTietHoaDon.resources
+D:\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.FrmHoaDon.resources
+D:\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.FrmKhachHang.resources
+D:\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.FrmXeMay.resources
+D:\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.FrmTrangThaiXe.resources
+D:\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.FrmLoaiXeMay.resources
+D:\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.FrmPhanKhoiXe.resources
+D:\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.FrmHangXe.resources
+D:\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.FrmQuanLyNhanVien.resources
+D:\project_fixed\project_fixed\GUI\obj\Debug\quanlyduan.Properties.Resources.resources
+D:\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.csproj.GenerateResource.cache
+D:\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.csproj.CoreCompileInputs.cache
+D:\project_fixed\project_fixed\GUI\obj\Debug\GUI_DATN.csproj.Up2Date
+D:\project_fixed\project_fixed\GUI\obj\Debug\quanlyduan.exe
+D:\project_fixed\project_fixed\GUI\obj\Debug\quanlyduan.pdb

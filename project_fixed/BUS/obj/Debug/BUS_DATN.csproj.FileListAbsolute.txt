@@ -1,0 +1,44 @@
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\BUS\bin\Debug\ClassLibrary5.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\BUS\bin\Debug\ClassLibrary5.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\BUS\bin\Debug\DAL_DATN.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\BUS\bin\Debug\DTO_DATN.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\BUS\bin\Debug\DTO_DATN.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\BUS\bin\Debug\DAL_DATN.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\BUS\obj\Debug\BUS_DATN.csproj.AssemblyReference.cache
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\BUS\obj\Debug\BUS_DATN.csproj.CoreCompileInputs.cache
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\BUS\obj\Debug\BUS_DATN.csproj.Up2Date
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\BUS\obj\Debug\ClassLibrary5.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\BUS\obj\Debug\ClassLibrary5.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\BUS\bin\Debug\ClassLibrary5.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\BUS\bin\Debug\ClassLibrary5.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\BUS\bin\Debug\DAL_DATN.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\BUS\bin\Debug\DTO_DATN.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\BUS\bin\Debug\DTO_DATN.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\BUS\bin\Debug\DAL_DATN.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\BUS\obj\Debug\BUS_DATN.csproj.AssemblyReference.cache
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\BUS\obj\Debug\BUS_DATN.csproj.CoreCompileInputs.cache
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\BUS\obj\Debug\BUS_DATN.csproj.Up2Date
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\BUS\obj\Debug\ClassLibrary5.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project_fixed\BUS\obj\Debug\ClassLibrary5.pdb
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\BUS\bin\Debug\ClassLibrary5.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\BUS\bin\Debug\ClassLibrary5.pdb
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\BUS\bin\Debug\DAL_DATN.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\BUS\bin\Debug\DTO_DATN.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\BUS\bin\Debug\DTO_DATN.pdb
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\BUS\bin\Debug\DAL_DATN.pdb
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\BUS\obj\Debug\BUS_DATN.csproj.AssemblyReference.cache
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\BUS\obj\Debug\BUS_DATN.csproj.CoreCompileInputs.cache
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\BUS\obj\Debug\BUS_DATN.csproj.Up2Date
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\BUS\obj\Debug\ClassLibrary5.dll
+C:\Users\khaidepchang\Downloads\project_fixed\project_fixed\BUS\obj\Debug\ClassLibrary5.pdb
+D:\project_fixed\project_fixed\BUS\bin\Debug\ClassLibrary5.dll
+D:\project_fixed\project_fixed\BUS\bin\Debug\ClassLibrary5.pdb
+D:\project_fixed\project_fixed\BUS\bin\Debug\DAL_DATN.dll
+D:\project_fixed\project_fixed\BUS\bin\Debug\DTO_DATN.dll
+D:\project_fixed\project_fixed\BUS\bin\Debug\DTO_DATN.pdb
+D:\project_fixed\project_fixed\BUS\bin\Debug\DAL_DATN.pdb
+D:\project_fixed\project_fixed\BUS\obj\Debug\BUS_DATN.csproj.AssemblyReference.cache
+D:\project_fixed\project_fixed\BUS\obj\Debug\BUS_DATN.csproj.CoreCompileInputs.cache
+D:\project_fixed\project_fixed\BUS\obj\Debug\BUS_DATN.csproj.Up2Date
+D:\project_fixed\project_fixed\BUS\obj\Debug\ClassLibrary5.dll
+D:\project_fixed\project_fixed\BUS\obj\Debug\ClassLibrary5.pdb

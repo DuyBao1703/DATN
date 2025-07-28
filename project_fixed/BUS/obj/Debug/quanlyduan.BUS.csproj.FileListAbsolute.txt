@@ -1,0 +1,2 @@
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\ClassLibrary5\obj\Debug\quanlyduan.BUS.csproj.AssemblyReference.cache
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\ClassLibrary5\obj\Debug\quanlyduan.BUS.csproj.CoreCompileInputs.cache

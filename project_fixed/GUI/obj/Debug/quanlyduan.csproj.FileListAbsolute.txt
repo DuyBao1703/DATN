@@ -1,0 +1,440 @@
+D:\IT43_TIENDAT\quanlychungcu\obj\Debug\quanlyduan.csproj.ResolveComReference.cache
+D:\IT43_TIENDAT\quanlychungcu\obj\Debug\quanlychungcu.About.resources
+D:\IT43_TIENDAT\quanlychungcu\obj\Debug\quanlychungcu.BackupRestore.resources
+D:\IT43_TIENDAT\quanlychungcu\obj\Debug\quanlychungcu.Baocaothongkehoadondichvu.resources
+D:\IT43_TIENDAT\quanlychungcu\obj\Debug\quanlychungcu.ChiTietHopDong.resources
+D:\IT43_TIENDAT\quanlychungcu\obj\Debug\quanlychungcu.ChuongTrinh.resources
+D:\IT43_TIENDAT\quanlychungcu\obj\Debug\quanlychungcu.Login.resources
+D:\IT43_TIENDAT\quanlychungcu\obj\Debug\quanlychungcu.Properties.Resources.resources
+D:\IT43_TIENDAT\quanlychungcu\obj\Debug\quanlychungcu.QuanLyChucVu.resources
+D:\IT43_TIENDAT\quanlychungcu\obj\Debug\quanlychungcu.QuanLythicong.resources
+D:\IT43_TIENDAT\quanlychungcu\obj\Debug\quanlychungcu.SuDungVatTu.resources
+D:\IT43_TIENDAT\quanlychungcu\obj\Debug\quanlychungcu.QuanLyGiamSat.resources
+D:\IT43_TIENDAT\quanlychungcu\obj\Debug\quanlychungcu.QuanLyCongViec.resources
+D:\IT43_TIENDAT\quanlychungcu\obj\Debug\quanlychungcu.QuanLyDuAn.resources
+D:\IT43_TIENDAT\quanlychungcu\obj\Debug\quanlychungcu.Quanlyhopdong.resources
+D:\IT43_TIENDAT\quanlychungcu\obj\Debug\quanlychungcu.Quanlynhathau.resources
+D:\IT43_TIENDAT\quanlychungcu\obj\Debug\quanlychungcu.Quanlynhanvien.resources
+D:\IT43_TIENDAT\quanlychungcu\obj\Debug\quanlychungcu.QuanLyTaiKhoan.resources
+D:\IT43_TIENDAT\quanlychungcu\obj\Debug\quanlyduan.csproj.GenerateResource.cache
+D:\IT43_TIENDAT\quanlychungcu\obj\Debug\quanlyduan.csproj.CoreCompileInputs.cache
+D:\IT43_TIENDAT\quanlychungcu\obj\Debug\quanlychungcu.exe
+D:\IT43_TIENDAT\quanlychungcu\obj\Debug\quanlychungcu.pdb
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.csproj.ResolveComReference.cache
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.csproj.GenerateResource.cache
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.csproj.CoreCompileInputs.cache
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Antlr3.Runtime.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\AxShockwaveFlashObjects.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\CrystalDecisions.Shared.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Guna.UI2.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.BatchParserClient.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Diagnostics.Strace.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlTDiagm.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.SString.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Newtonsoft.Json.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Serilog.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Serilog.Sinks.File.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\System.Web.Optimization.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\WebGrease.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\ShockwaveFlashObjects.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\stdole.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Antlr3.Runtime.pdb
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Dmf.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Utility.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Smo.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Types.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Newtonsoft.Json.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Serilog.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Serilog.Sinks.File.pdb
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Serilog.Sinks.File.xml
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\System.Web.Optimization.xml
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.csproj.CopyComplete
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\EPPlus.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\EPPlus.Interfaces.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\EPPlus.System.Drawing.dll
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\EPPlus.xml
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.Properties.Resources.resources
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.About.resources
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.ChuongTrinh.resources
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.Login.resources
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.QuanLyChucVu.resources
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.QuanLyvattu.resources
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.QuanLytiendo.resources
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.QuanLythicong.resources
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.SuDungVatTu.resources
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.QuanLyGiamSat.resources
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.QuanLyCongViec.resources
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.QuanLyDuAn.resources
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.Quanlynhathau.resources
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.Quanlynhanvien.resources
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.QuanLyTaiKhoan.resources
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.ThongKeBaoCaoDuAn.resources
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.Thongkesudungvattutrongduan.resources
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\quanlyduan.exe.config
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\quanlyduan.exe
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\quanlyduan.pdb
+D:\IT43_TIENDAT\quanlyduan\bin\Debug\Microsoft.SqlServer.Assessment.dll
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.exe
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.pdb
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.csproj.AssemblyReference.cache
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.BieudoTronThongKeBaoCaoDuAn.resources
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.BieudoCotThongKeBaoCaoDuAn.resources
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.BieudoTronthongkesudungvattutrongduan.resources
+D:\IT43_TIENDAT\quanlyduan\obj\Debug\quanlyduan.BieudoCotthongkesudungvattutrongduan.resources
+C:\Users\TSC\Documents\duybao\quanlyduan\obj\Debug\quanlyduan.csproj.ResolveComReference.cache
+C:\Users\TSC\Documents\duybao\quanlyduan\obj\Debug\quanlyduan.Login.resources
+C:\Users\TSC\Documents\duybao\quanlyduan\obj\Debug\quanlyduan.FrmQuanLyNhanVien.resources
+C:\Users\TSC\Documents\duybao\quanlyduan\obj\Debug\quanlyduan.Properties.Resources.resources
+C:\Users\TSC\Documents\duybao\quanlyduan\obj\Debug\quanlyduan.csproj.GenerateResource.cache
+C:\Users\TSC\Documents\duybao\quanlyduan\obj\Debug\quanlyduan.csproj.CoreCompileInputs.cache
+C:\Users\TSC\Documents\duybao\quanlyduan\obj\Debug\quanlyduan.exe
+C:\Users\TSC\Documents\duybao\quanlyduan\obj\Debug\quanlyduan.pdb
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\quanlyduan.exe.config
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\quanlyduan.exe
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\quanlyduan.pdb
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Antlr3.Runtime.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\EPPlus.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Guna.UI2.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.BatchParserClient.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Diagnostics.Strace.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlTDiagm.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.SString.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Serilog.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\System.Web.Optimization.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\WebGrease.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\stdole.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\EPPlus.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Utility.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.Types.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Serilog.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Serilog.Sinks.File.pdb
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\bin\Debug\System.Web.Optimization.xml
+C:\Users\TSC\Documents\duybao\quanlyduan\obj\Debug\quanlyduan.FrmHangXe.resources
+C:\Users\TSC\Documents\duybao\quanlyduan\obj\Debug\quanlyduan.csproj.CopyComplete
+C:\Users\TSC\Documents\duybao\quanlyduan\obj\Debug\quanlyduan.FrmTrangThaiXe.resources
+C:\Users\TSC\Documents\duybao\quanlyduan\obj\Debug\quanlyduan.FrmLoaiXeMay.resources
+C:\Users\TSC\Documents\duybao\quanlyduan\obj\Debug\quanlyduan.FrmPhanKhoiXe.resources
+C:\Users\TSC\Documents\duybao\quanlyduan\obj\Debug\quanlyduan.FrmXeMay.resources
+C:\Users\TSC\Documents\duybao\quanlyduan\obj\Debug\quanlyduan.FrmHoaDon.resources
+C:\Users\TSC\Documents\duybao\quanlyduan\obj\Debug\quanlyduan.FrmChiTietHoaDon.resources
+C:\Users\TSC\Documents\duybao\quanlyduan\obj\Debug\quanlyduan.FrmKhachHang.resources
+C:\Users\TSC\Documents\duybao\quanlyduan\obj\Debug\quanlyduan.frmMain.resources
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\obj\Debug\quanlyduan.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\obj\Debug\quanlyduan.csproj.ResolveComReference.cache
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\obj\Debug\quanlyduan.Login.resources
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\obj\Debug\quanlyduan.frmMain.resources
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\obj\Debug\quanlyduan.FrmChiTietHoaDon.resources
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\obj\Debug\quanlyduan.FrmHoaDon.resources
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\obj\Debug\quanlyduan.FrmKhachHang.resources
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\obj\Debug\quanlyduan.FrmXeMay.resources
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\obj\Debug\quanlyduan.FrmTrangThaiXe.resources
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\obj\Debug\quanlyduan.FrmLoaiXeMay.resources
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\obj\Debug\quanlyduan.FrmPhanKhoiXe.resources
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\obj\Debug\quanlyduan.FrmHangXe.resources
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\obj\Debug\quanlyduan.FrmQuanLyNhanVien.resources
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\obj\Debug\quanlyduan.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\obj\Debug\quanlyduan.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\obj\Debug\quanlyduan.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\obj\Debug\quanlyduan.exe
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\obj\Debug\quanlyduan.pdb
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\quanlyduan.exe.config
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\quanlyduan.exe
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\quanlyduan.pdb
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\EPPlus.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Guna.UI2.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Assessment.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.BatchParserClient.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Diagnostics.Strace.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlTDiagm.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.SString.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Serilog.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\System.Web.Optimization.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\WebGrease.dll
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\EPPlus.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Dmf.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Utility.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Smo.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Types.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Serilog.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Serilog.Sinks.File.pdb
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\bin\Debug\System.Web.Optimization.xml
+C:\Users\ASUS\OneDrive\Pictures\projec\quanlyduan\obj\Debug\quanlyduan.csproj.Up2Date
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\quanlyduan.exe.config
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\quanlyduan.exe
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\quanlyduan.pdb
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Antlr3.Runtime.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\EPPlus.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\EPPlus.Interfaces.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\EPPlus.System.Drawing.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Guna.UI2.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Assessment.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.BatchParserClient.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Diagnostics.Strace.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Dmf.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Assessment.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEvent.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.PolicyEnum.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlTDiagm.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.SString.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.WmiEnum.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Newtonsoft.Json.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Serilog.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Serilog.Sinks.File.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\System.Web.Optimization.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\WebGrease.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Antlr3.Runtime.pdb
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\EPPlus.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.ConnectionInfo.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Dmf.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Dmf.Common.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Collector.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.RegisteredServers.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.Utility.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEvent.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventDbScoped.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventDbScopedEnum.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Management.XEventEnum.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.PolicyEnum.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.RegSvrEnum.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Smo.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.SmoExtended.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlEnum.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.SqlWmiManagement.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.Types.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Microsoft.SqlServer.WmiEnum.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Newtonsoft.Json.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Serilog.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Serilog.Sinks.File.pdb
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\Serilog.Sinks.File.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\bin\Debug\System.Web.Optimization.xml
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\obj\Debug\quanlyduan.csproj.AssemblyReference.cache
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\obj\Debug\quanlyduan.csproj.ResolveComReference.cache
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\obj\Debug\quanlyduan.Login.resources
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\obj\Debug\quanlyduan.frmMain.resources
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\obj\Debug\quanlyduan.FrmChiTietHoaDon.resources
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\obj\Debug\quanlyduan.FrmHoaDon.resources
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\obj\Debug\quanlyduan.FrmKhachHang.resources
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\obj\Debug\quanlyduan.FrmXeMay.resources
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\obj\Debug\quanlyduan.FrmTrangThaiXe.resources
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\obj\Debug\quanlyduan.FrmLoaiXeMay.resources
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\obj\Debug\quanlyduan.FrmPhanKhoiXe.resources
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\obj\Debug\quanlyduan.FrmHangXe.resources
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\obj\Debug\quanlyduan.FrmQuanLyNhanVien.resources
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\obj\Debug\quanlyduan.Properties.Resources.resources
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\obj\Debug\quanlyduan.csproj.GenerateResource.cache
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\obj\Debug\quanlyduan.csproj.CoreCompileInputs.cache
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\obj\Debug\quanlyduan.csproj.Up2Date
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\obj\Debug\quanlyduan.exe
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\quanlyduan\obj\Debug\quanlyduan.pdb

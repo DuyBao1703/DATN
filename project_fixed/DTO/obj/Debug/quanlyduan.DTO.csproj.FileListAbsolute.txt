@@ -1,0 +1,12 @@
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\ClassLibrary3\bin\Debug\DTO.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\ClassLibrary3\bin\Debug\DTO.pdb
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\ClassLibrary3\obj\Debug\quanlyduan.DTO.csproj.AssemblyReference.cache
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\ClassLibrary3\obj\Debug\quanlyduan.DTO.csproj.CoreCompileInputs.cache
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\ClassLibrary3\obj\Debug\DTO.dll
+D:\TB01590_NGUYENDUYBAO_QUANLYXEMAY SD1902\projec\ClassLibrary3\obj\Debug\DTO.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\DTO\bin\Debug\DTO.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\DTO\bin\Debug\DTO.pdb
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\DTO\obj\Debug\quanlyduan.DTO.csproj.AssemblyReference.cache
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\DTO\obj\Debug\quanlyduan.DTO.csproj.CoreCompileInputs.cache
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\DTO\obj\Debug\DTO.dll
+D:\FPT_PTCD\IT_Courses\PRO231 - Du_an_tot_nghiep\SD1902\project\DTO\obj\Debug\DTO.pdb
